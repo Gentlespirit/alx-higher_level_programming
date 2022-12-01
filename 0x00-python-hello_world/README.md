@@ -16,7 +16,7 @@
 
 - A README.md file, at the root of the folder of this project, is mandatory
 
-Your code should use the pycodestyle (version 2.8.*)
+  Your code should use the pycodestyle (version 2.8.*)
 
 - All your files must be executable
 
